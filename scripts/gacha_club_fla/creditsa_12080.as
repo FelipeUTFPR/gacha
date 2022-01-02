@@ -46,7 +46,7 @@ package gacha_club_fla
          {
             MovieClip(root).myChannel4 = MovieClip(root).clicksfx.play(0,1);
          }
-         navigateToURL(new URLRequest("https://lunime.com/gachaclub/credits"),"_blank");
+         navigateToURL(new URLRequest("https://sites.google.com/view/gachacredits"),"_blank");
       }
       
       function frame1() : *
